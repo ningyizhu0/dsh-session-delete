@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session delete",
+    "description": "Delete a stored session from its sidebar menu or from the session_delete tool."
+  }
+}
